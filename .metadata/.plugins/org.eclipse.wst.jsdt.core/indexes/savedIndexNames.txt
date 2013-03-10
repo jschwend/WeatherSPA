@@ -1,0 +1,6 @@
+INDEX VERSION 1.121+/home/jack/github/WeatherSPA/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2252974832.index
+1317825675.index
+2987574139.index
+2401969525.index
+2522900124.index

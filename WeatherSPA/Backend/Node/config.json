@@ -1,0 +1,12 @@
+{
+  "port": "3600",
+  "mysql": {
+    "host": "localhost",
+    "database": "weather",
+    "auth": {
+      "username": "jack",
+      "password": "246*8531"
+    }
+  }
+}
+

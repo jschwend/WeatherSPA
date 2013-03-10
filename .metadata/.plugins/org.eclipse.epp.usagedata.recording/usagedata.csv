@@ -1,0 +1,76 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362876297035
+error,log,,,"The variable activeWorkbenchWindow.activePerspective is not defined",1362876302528
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1362876305860
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1362876306578
+error,log,,,"Error in JSDT Core during reconcile",1362876306578
+error,log,,,"The variable activeWorkbenchWindow.activePerspective is not defined",1362876310974
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362876333164
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362876363607
+error,log,,,"The variable activeWorkbenchWindow.activePerspective is not defined",1362876372526
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362876378141
+started,bundle,org.eclipse.egit.mylyn.ui,1.0.0.201106090707-r,"org.eclipse.egit.mylyn.ui",1362876379301
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362876383198
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362876383254
+executed,command,org.eclipse.egit.ui,1.0.0.201106090707-r,"org.eclipse.egit.ui.team.Commit",1362876566244
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362876566262
+error,log,,,"The variable activeWorkbenchWindow.activePerspective is not defined",1362876568612
+executed,command,org.eclipse.egit.ui,1.0.0.201106090707-r,"org.eclipse.egit.ui.team.Ignore",1362876594081
+error,log,,,"The variable activeWorkbenchWindow.activePerspective is not defined",1362876602802
+error,log,,,"The variable activeWorkbenchWindow.activePerspective is not defined",1362876616078
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362876620678
+executed,command,org.eclipse.egit.ui,1.0.0.201106090707-r,"org.eclipse.egit.ui.team.Commit",1362876669792
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362876669808
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362876673018
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362876712552
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.wst.jsdt.ui"".",1362876859824
+error,log,,,"Error in JSDT Core during AST creation",1362876859824
+activated,editor,org.eclipse.wst.jsdt.ui,1.0.201.v2010012803,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1362876875284
+activated,editor,org.eclipse.wst.jsdt.ui,1.0.201.v2010012803,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1362876875348
+closed,editor,org.eclipse.wst.jsdt.ui,1.0.201.v2010012803,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1362876875349
+activated,editor,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.DefaultTextEditor",1362876876897
+closed,editor,org.eclipse.wst.jsdt.ui,1.0.201.v2010012803,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1362876876897
+activated,editor,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.DefaultTextEditor",1362876881876
+closed,editor,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.DefaultTextEditor",1362876881876
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1362876883895
+closed,editor,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.DefaultTextEditor",1362876883896
+error,log,,,"The variable activeWorkbenchWindow.activePerspective is not defined",1362876979412
+started,bundle,org.eclipse.wst.xml.ui,1.1.2.v201001222130,"org.eclipse.wst.xml.ui",1362876984132
+started,bundle,org.eclipse.jst.jsp.ui,1.1.401.v200908111935,"org.eclipse.jst.jsp.ui",1362876984204
+started,bundle,org.eclipse.wst.jsdt.web.ui,1.0.201.v2010012803,"org.eclipse.wst.jsdt.web.ui",1362876984241
+started,bundle,org.eclipse.wst.css.ui,1.0.401.v200907171457,"org.eclipse.wst.css.ui",1362876984273
+started,bundle,org.eclipse.wst.dtd.ui,1.0.400.v200904300717,"org.eclipse.wst.dtd.ui",1362876984301
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362876984659
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877111763
+started,bundle,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui",1362877112188
+opened,editor,org.eclipse.wst.html.ui,1.0.401.v200908111935,"org.eclipse.wst.html.core.htmlsource.source",1362877112389
+activated,editor,org.eclipse.wst.html.ui,1.0.401.v200908111935,"org.eclipse.wst.html.core.htmlsource.source",1362877113075
+started,bundle,org.eclipse.jst.j2ee.jca,1.1.301.v201001252130,"org.eclipse.jst.j2ee.jca",1362877113223
+started,bundle,org.eclipse.jst.jsf.ui,1.2.3.v201001271707,"org.eclipse.jst.jsf.ui",1362877113233
+started,bundle,org.eclipse.jst.j2ee.ejb,1.1.301.v201001252130,"org.eclipse.jst.j2ee.ejb",1362877113258
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877156969
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877158932
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877211630
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877212491
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877228606
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877228840
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1362877258381
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877263253
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877264335
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1362877271309
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1362877275072
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1362877290220
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1362877294389
+error,log,,,"The variable activeWorkbenchWindow.activePerspective is not defined",1362877295903
+started,bundle,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser",1362877309179
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877309576
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877324483
+activated,editor,org.eclipse.wst.html.ui,1.0.401.v200908111935,"org.eclipse.wst.html.core.htmlsource.source",1362877325747
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1362877536970
+error,log,,,"The variable activeWorkbenchWindow.activePerspective is not defined",1362877538004
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877544027
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877548241
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877548334
+executed,command,org.eclipse.egit.ui,1.0.0.201106090707-r,"org.eclipse.egit.ui.team.Commit",1362877578247
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877578260
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1362877578778
